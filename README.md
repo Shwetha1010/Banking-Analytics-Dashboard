@@ -12,7 +12,7 @@ This project demonstrates end-to-end BI development — from data cleaning and m
 
 ### Features
 
-🏠 Home Dashboard
+### Home Dashboard
 
 - Quick snapshot of Total Clients, Loans, Deposits, and Accounts
 
@@ -20,7 +20,7 @@ This project demonstrates end-to-end BI development — from data cleaning and m
 
 - Drill-through navigation to Loan, Deposit, and Summary dashboards
 
-💳 Loan Analysis
+### Loan Analysis
 
 - KPIs: Total Loan, Business Lending, Credit Card Balance, Bank Loan
 
@@ -28,7 +28,7 @@ This project demonstrates end-to-end BI development — from data cleaning and m
 
 - Relationship filters: Commercial, Institutional, Private Bank, Retail
 
-💰 Deposit Analysis
+### Deposit Analysis
 
 - KPIs: Total Deposit, Bank Deposit, Checking Account Amt, Savings Account Amt
 
@@ -36,7 +36,7 @@ This project demonstrates end-to-end BI development — from data cleaning and m
 
 - Dynamic filters by Banking Relationship, Gender, Institution Advisor
 
-📑 Summary Dashboard
+### Summary Dashboard
 
 Consolidated KPIs:
 
