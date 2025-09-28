@@ -14,61 +14,59 @@ This project demonstrates end-to-end BI development — from data cleaning and m
 
 🏠 Home Dashboard
 
-Quick snapshot of Total Clients, Loans, Deposits, and Accounts
+- Quick snapshot of Total Clients, Loans, Deposits, and Accounts
 
-Gender and Joining Year filters
+- Gender and Joining Year filters
 
-Drill-through navigation to Loan, Deposit, and Summary dashboards
+- Drill-through navigation to Loan, Deposit, and Summary dashboards
 
 💳 Loan Analysis
 
-KPIs: Total Loan, Business Lending, Credit Card Balance, Bank Loan
+- KPIs: Total Loan, Business Lending, Credit Card Balance, Bank Loan
 
-Loan breakdown by Branch (BR), Occupation, Income Band, Nationality
+- Loan breakdown by Branch (BR), Occupation, Income Band, Nationality
 
-Relationship filters: Commercial, Institutional, Private Bank, Retail
+- Relationship filters: Commercial, Institutional, Private Bank, Retail
 
 💰 Deposit Analysis
 
-KPIs: Total Deposit, Bank Deposit, Checking Account Amt, Savings Account Amt
+- KPIs: Total Deposit, Bank Deposit, Checking Account Amt, Savings Account Amt
 
-Deposit breakdown by Branch, Occupation, Income Band, Nationality
+- Deposit breakdown by Branch, Occupation, Income Band, Nationality
 
-Dynamic filters by Banking Relationship, Gender, Institution Advisor
+- Dynamic filters by Banking Relationship, Gender, Institution Advisor
 
 📑 Summary Dashboard
 
-Executive overview combining loans + deposits
-
 Consolidated KPIs:
 
-Total Clients
+- Total Clients
 
-Total Loan & Business Lending
+- Total Loan & Business Lending
 
-Total Deposit & Bank Deposit
+- Total Deposit & Bank Deposit
 
-Saving & Checking Account Amounts
+- Saving & Checking Account Amounts
 
-Total Fees
+- Total Fees
 
-Engagement Accounts
+- Engagement Accounts
 
-Foreign Currency Amount
+- Foreign Currency Amount
 
-Total Credit Card Amount
+- Total Credit Card Amount
 
 
 
 ## Tech Stack
 
-Power BI Desktop / Service – dashboard design & publishing
+- Power BI Desktop / Service – dashboard design & publishing
 
-Power Query – data cleaning & ETL pipeline
+- Power Query – data cleaning & ETL pipeline
 
-DAX (Data Analysis Expressions) – KPI and calculated measures
+- DAX (Data Analysis Expressions) – KPI and calculated measures
 
-Python  – for additional preprocessing 
+- Python  – for additional preprocessing 
 
 
 ## Screenshots
@@ -85,3 +83,6 @@ Python  – for additional preprocessing
 
 ### Summary
 ![image alt](https://github.com/Shwetha1010/Banking-Analytics-Dashboard/blob/760e2d255194299b51cd893a59650870fe31d2a8/Summary.png)
+
+
+## Demo Video
