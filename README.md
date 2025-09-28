@@ -8,7 +8,7 @@ This project demonstrates end-to-end BI development — from data cleaning and m
 
 
 
-## Dashbard
+## Dashboard
 
 ### Features
 
