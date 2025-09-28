@@ -84,4 +84,4 @@ Python  – for additional preprocessing
 ![image alt](https://github.com/Shwetha1010/Banking-Analytics-Dashboard/blob/83f510f7d915fb2606ce8229292b294560a8ec3b/Deposit%20Analysis.png)
 
 ### Summary
-![image alt](https://github.com/Shwetha1010/Banking-Analytics-Dashboard/blob/16781f52097642a0f9227acd6d97e59144364d18/Homepage.png)
+![image alt](https://github.com/Shwetha1010/Banking-Analytics-Dashboard/blob/760e2d255194299b51cd893a59650870fe31d2a8/Summary.png)
