@@ -73,12 +73,15 @@ Python  – for additional preprocessing
 
 ## Screenshots
 ### Home Dashboard
-https://github.com/Shwetha1010/Banking-Analytics-Dashboard/blob/16781f52097642a0f9227acd6d97e59144364d18/Homepage.png
+![image alt](https://github.com/Shwetha1010/Banking-Analytics-Dashboard/blob/16781f52097642a0f9227acd6d97e59144364d18/Homepage.png)
 
 
 
 ### Loan Analysis
+![image alt](https://github.com/Shwetha1010/Banking-Analytics-Dashboard/blob/16781f52097642a0f9227acd6d97e59144364d18/Homepage.png)
 
 ### Deposit Analysis
+![image alt](https://github.com/Shwetha1010/Banking-Analytics-Dashboard/blob/16781f52097642a0f9227acd6d97e59144364d18/Homepage.png)
 
 ### Summary
+![image alt](https://github.com/Shwetha1010/Banking-Analytics-Dashboard/blob/16781f52097642a0f9227acd6d97e59144364d18/Homepage.png)
