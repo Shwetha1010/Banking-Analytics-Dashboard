@@ -71,18 +71,18 @@ Consolidated KPIs:
 
 ## Screenshots
 ### Home Dashboard
-![image alt](https://github.com/Shwetha1010/Banking-Analytics-Dashboard/blob/16781f52097642a0f9227acd6d97e59144364d18/Homepage.png)
+![image alt]()
 
 
 
 ### Loan Analysis
-![image alt](https://github.com/Shwetha1010/Banking-Analytics-Dashboard/blob/91d5f1350b707b24072d8774c0ecad4e0f65c3a3/Loan%20Analysis.png)
+![image alt]()
 
 ### Deposit Analysis
-![image alt](https://github.com/Shwetha1010/Banking-Analytics-Dashboard/blob/83f510f7d915fb2606ce8229292b294560a8ec3b/Deposit%20Analysis.png)
+![image alt]()
 
 ### Summary
-![image alt](https://github.com/Shwetha1010/Banking-Analytics-Dashboard/blob/760e2d255194299b51cd893a59650870fe31d2a8/Summary.png)
+![image alt]()
 
 
 ## Demo Video
