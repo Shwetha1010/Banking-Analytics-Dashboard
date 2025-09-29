@@ -82,8 +82,7 @@ Consolidated KPIs:
 ![image alt](https://github.com/Shwetha1010/Banking-Analytics-Dashboard/blob/c3724f4b24f847fbd0871ae88d8cc97fdd7513c1/Deposit%20Analysis.png)
 
 ### Summary
-![image alt]()
+![image alt](https://github.com/Shwetha1010/Banking-Analytics-Dashboard/blob/3b4765e21a3b7801ccb8201980dc54813c0b54a6/Summary.png)
 
 
 ## Demo Video
-https://github.com/Shwetha1010/Banking-Analytics-Dashboard/issues/1#issue-3461301628
