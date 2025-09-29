@@ -71,7 +71,7 @@ Consolidated KPIs:
 
 ## Screenshots
 ### Home Dashboard
-![image alt]()
+![image alt](https://github.com/Shwetha1010/Banking-Analytics-Dashboard/blob/edb21291545a812c6c39c657a4d3f47107f49dc2/Homepage.png)
 
 
 
